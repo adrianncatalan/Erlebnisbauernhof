@@ -21,7 +21,7 @@
     <div class="relative mx-auto flex min-h-screen flex-col justify-center items-center px-6 lg:px-8 text-center">
       <div class="max-w-2xl">
         <h2 class="text-5xl font-semibold tracking-tight text-white sm:text-7xl">Hubert Fröhlich</h2>
-        <p class="mt-8 text-lg font-medium text-pretty text-gray-300 sm:text-xl/8">Erlebnisbauernhof</p>
+        <p class="mt-8 text-3xl font-medium text-pretty text-gray-300 sm:text-4xl">Erlebnisbauernhof</p>
       </div>
     </div>
   </div>

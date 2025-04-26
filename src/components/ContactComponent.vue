@@ -22,8 +22,8 @@
                     <div class="flex-1 relative pt-16 px-6 pb-8 md:px-8">
                         <div
                             class="absolute top-0 p-5 inline-block bg-gray-200 rounded-xl shadow-lg transform -translate-y-1/2">
-                            <!-- Replaced icon with text for "Address" -->
-                            <span class="h-10 w-10 text-white">🏠</span>
+                            <!-- Increased icon size for "Address" -->
+                            <span class="h-14 w-14 text-white">🏠</span>
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">Adresse</h3>
                         <p class="mt-4 text-base text-gray-500">Aschenroth 31 97737 Gemünden</p>
@@ -33,8 +33,8 @@
                     <div class="flex-1 relative pt-16 px-6 pb-8 md:px-8">
                         <div
                             class="absolute top-0 p-5 inline-block bg-gray-200 rounded-xl shadow-lg transform -translate-y-1/2">
-                            <!-- Replaced icon with text for "Email" -->
-                            <span class="h-10 w-10 text-white">📧</span>
+                            <!-- Increased icon size for "Email" -->
+                            <span class="h-14 w-14 text-white">📧</span>
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">E-Mail</h3>
                         <p class="mt-4 text-base text-gray-500">hubert.froehlich.gmx.de</p>
@@ -45,8 +45,8 @@
                     <div class="flex-1 relative pt-16 px-6 pb-8 md:px-8">
                         <div
                             class="absolute top-0 p-5 inline-block bg-gray-200 rounded-xl shadow-lg transform -translate-y-1/2">
-                            <!-- Replaced icon with text for "Phone" -->
-                            <span class="h-10 w-10 text-white">📞</span>
+                            <!-- Increased icon size for "Phone" -->
+                            <span class="h-14 w-14 text-white">📞</span>
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">Telefon</h3>
                         <p class="mt-4 text-base text-gray-500">0172/8484629</p>
