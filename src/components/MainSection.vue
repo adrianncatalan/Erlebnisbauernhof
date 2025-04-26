@@ -4,23 +4,23 @@
             <dl class="grid grid-cols-1 gap-x-8 gap-y-16 text-center lg:grid-cols-3">
 
                 <div class="mx-auto flex max-w-xs flex-col gap-y-4">
-                    <dt class="text-2xl font-bold text-slate-500">Baumwart</dt>
+                    <dt class="text-2xl font-bold text-slate-500">Zertifizierter bayerischer</dt>
                     <dd class="order-first text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl">
-                        Zertifizierter bayerischer
+                        Baumwart
                     </dd>
                 </div>
 
                 <div class="mx-auto flex max-w-xs flex-col gap-y-4">
-                    <dt class="text-2xl font-bold text-slate-500">Brenner</dt>
+                    <dt class="text-2xl font-bold text-slate-500">Paracelsus</dt>
                     <dd class="order-first text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl">
-                        Staatlich geprüfter
+                        Brenner
                     </dd>
                 </div>
 
                 <div class="mx-auto flex max-w-xs flex-col gap-y-4">
                     <dt class="text-2xl font-bold text-slate-500">Psychologischer Berater</dt>
                     <dd class="order-first text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl">
-                        Paracelsus
+                        Staatlich geprüfter
                     </dd>
                 </div>
 

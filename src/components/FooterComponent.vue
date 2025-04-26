@@ -4,11 +4,11 @@
             <div class="mt-8 flex justify-center space-x-6">
                 <a href="#"
                    class="text-indigo-600 hover:text-white hover:bg-indigo-600 text-center hover:shadow-lg px-4 py-2 rounded-lg transition-all duration-300 transform hover:scale-105">
-                    Erlebnisbauernhof bei Hubert Fröhlich
+                    Erlebnisbauernhof Hubert Fröhlich
                 </a>
             </div>
             <p class="mt-8 text-center text-base text-gray-400">
-                &copy; 2025 Hubert Fröhlich, Inc. All rights reserved.
+                &copy; 2025 Hubert Fröhlich, Alle Rechte vorbehalten.
             </p>
         </div>
     </footer>

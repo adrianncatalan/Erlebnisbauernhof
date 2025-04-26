@@ -26,7 +26,7 @@
                             <span class="h-14 w-14 text-white">🏠</span>
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">Adresse</h3>
-                        <p class="mt-4 text-base text-gray-500">Aschenroth 31 97737 Gemünden</p>
+                        <p class="mt-4 text-base text-gray-500">Aschenroth 31, 97737 Gemünden</p>
                     </div>
                 </div>
                 <div class="flex flex-col bg-white rounded-2xl shadow-xl">
@@ -37,7 +37,7 @@
                             <span class="h-14 w-14 text-white">📧</span>
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">E-Mail</h3>
-                        <p class="mt-4 text-base text-gray-500">hubert.froehlich.gmx.de</p>
+                        <p class="mt-4 text-base text-gray-500">hubert.froehlich@gmx.de</p>
                     </div>
                 </div>
 

@@ -1,7 +1,7 @@
 <template>
   <div class="relative isolate overflow-hidden bg-gray-900">
     <img 
-      src="https://i.postimg.cc/7ZFZX2Jh/Hubert-Froelich.jpg" 
+      src="https://i.postimg.cc/Hs8mNNts/Hubert-Froelich.jpg" 
       alt="Hubert Fröhlich"
       class="absolute inset-0 -z-10 w-full h-full object-cover object-center"
     >
@@ -20,8 +20,8 @@
 
     <div class="relative mx-auto flex min-h-screen flex-col justify-center items-center px-6 lg:px-8 text-center">
       <div class="max-w-2xl">
-        <h2 class="text-5xl font-semibold tracking-tight text-white sm:text-7xl">Hubert Fröhlich</h2>
-        <p class="mt-8 text-3xl font-medium text-pretty text-gray-300 sm:text-4xl">Erlebnisbauernhof</p>
+        <h2 class="text-5xl font-semibold tracking-tight text-white sm:text-7xl">Erlebnisbauernhof</h2>
+        <p class="mt-8 text-3xl font-medium text-pretty text-gray-300 sm:text-4xl">Hubert Fröhlich</p>
       </div>
     </div>
   </div>
