@@ -8,7 +8,7 @@
                 </a>
             </div>
             <p class="mt-8 text-center text-base text-gray-400">
-                &copy; 2025 Hubert Fröhlich, Alle Rechte vorbehalten.
+                &copy; 2025 Hubert Fröhlich. Alle Rechte vorbehalten.
             </p>
         </div>
     </footer>
