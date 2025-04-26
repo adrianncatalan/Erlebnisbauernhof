@@ -11,16 +11,16 @@
                 </div>
 
                 <div class="mx-auto flex max-w-xs flex-col gap-y-4">
-                    <dt class="text-2xl font-bold text-slate-500">Paracelsus</dt>
+                    <dt class="text-2xl font-bold text-slate-500">Staatlich geprüfter</dt>
                     <dd class="order-first text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl">
                         Brenner
                     </dd>
                 </div>
 
                 <div class="mx-auto flex max-w-xs flex-col gap-y-4">
-                    <dt class="text-2xl font-bold text-slate-500">Psychologischer Berater</dt>
+                    <dt class="text-2xl font-bold text-slate-500">Paracelsus</dt>
                     <dd class="order-first text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl">
-                        Staatlich geprüfter
+                        Psychologischer Berater
                     </dd>
                 </div>
 
