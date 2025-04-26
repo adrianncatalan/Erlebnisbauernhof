@@ -1,0 +1,30 @@
+<template>
+    <div class="bg-white py-24 sm:py-32">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+            <dl class="grid grid-cols-1 gap-x-8 gap-y-16 text-center lg:grid-cols-3">
+
+                <div class="mx-auto flex max-w-xs flex-col gap-y-4">
+                    <dt class="text-2xl font-bold text-slate-500">Baumwart</dt>
+                    <dd class="order-first text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl">
+                        Zertifizierter bayerischer
+                    </dd>
+                </div>
+
+                <div class="mx-auto flex max-w-xs flex-col gap-y-4">
+                    <dt class="text-2xl font-bold text-slate-500">Brenner</dt>
+                    <dd class="order-first text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl">
+                        Staatlich geprüfter
+                    </dd>
+                </div>
+
+                <div class="mx-auto flex max-w-xs flex-col gap-y-4">
+                    <dt class="text-2xl font-bold text-slate-500">Psychologischer Berater</dt>
+                    <dd class="order-first text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl">
+                        Paracelsus
+                    </dd>
+                </div>
+
+            </dl>
+        </div>
+    </div>
+</template>
