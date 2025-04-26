@@ -18,38 +18,44 @@
             aria-labelledby="contact-heading">
             <h2 class="sr-only" id="contact-heading">Kontakt</h2>
             <div class="grid grid-cols-1 gap-y-20 lg:grid-cols-3 lg:gap-y-0 lg:gap-x-8">
+                <!-- Address Card -->
                 <div class="flex flex-col bg-white rounded-2xl shadow-xl">
                     <div class="flex-1 relative pt-16 px-6 pb-8 md:px-8">
                         <div
                             class="absolute top-0 p-5 inline-block bg-gray-200 rounded-xl shadow-lg transform -translate-y-1/2">
-                            <!-- Increased icon size for "Address" -->
                             <span class="h-14 w-14 text-white">🏠</span>
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">Adresse</h3>
                         <p class="mt-4 text-base text-gray-500">Aschenroth 31, 97737 Gemünden</p>
                     </div>
                 </div>
+
+                <!-- Email Card -->
                 <div class="flex flex-col bg-white rounded-2xl shadow-xl">
                     <div class="flex-1 relative pt-16 px-6 pb-8 md:px-8">
                         <div
                             class="absolute top-0 p-5 inline-block bg-gray-200 rounded-xl shadow-lg transform -translate-y-1/2">
-                            <!-- Increased icon size for "Email" -->
                             <span class="h-14 w-14 text-white">📧</span>
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">E-Mail</h3>
-                        <p class="mt-4 text-base text-gray-500">hubert.froehlich@gmx.de</p>
+                        <p class="mt-4 text-base text-gray-500">
+                            <a href="mailto:hubert.froehlich@gmx.de"
+                                class="text-blue-600 hover:text-blue-800">hubert.froehlich@gmx.de</a>
+                        </p>
                     </div>
                 </div>
 
+                <!-- Phone Card -->
                 <div class="flex flex-col bg-white rounded-2xl shadow-xl">
                     <div class="flex-1 relative pt-16 px-6 pb-8 md:px-8">
                         <div
                             class="absolute top-0 p-5 inline-block bg-gray-200 rounded-xl shadow-lg transform -translate-y-1/2">
-                            <!-- Increased icon size for "Phone" -->
                             <span class="h-14 w-14 text-white">📞</span>
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">Telefon</h3>
-                        <p class="mt-4 text-base text-gray-500">0172/8484629</p>
+                        <p class="mt-4 text-base text-gray-500">
+                            <a href="tel:+491728484629" class="text-blue-600 hover:text-blue-800">0172/8484629</a>
+                        </p>
                     </div>
                 </div>
             </div>
