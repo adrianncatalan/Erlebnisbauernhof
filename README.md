@@ -1,39 +1,19 @@
-# .
+# Hubert Fröhlich – Erlebnisbauernhof
 
-This template should help get you started developing with Vue 3 in Vite.
+Personal website for Hubert Fröhlich, a Schnapps producer based in Germany.
 
-## Recommended IDE Setup
+🌐 **Live site:** [hubertfroehlich.netlify.app](https://hubertfroehlich.netlify.app/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## About
 
-## Type Support for `.vue` Imports in TS
+This website showcases Hubert Fröhlich's work and products, 
+providing visitors with information about his handcrafted Schnapps 
+and farm experience.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Built with
 
-## Customize configuration
+- Vue.js 
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Author
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Developed by [Adrián Catalán](https://github.com/adrianncatalan)
