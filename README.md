@@ -12,7 +12,8 @@ and farm experience.
 
 ## Built with
 
-- Vue.js 
+- Vue.js
+- Tailwind CSS
 
 ## Author
 
